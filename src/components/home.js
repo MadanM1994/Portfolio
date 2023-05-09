@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import "./home.css";
 
-function Home({}) {
+function Home() {
   return (
     <div>
       <div className="box-1">
