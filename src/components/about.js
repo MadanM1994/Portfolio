@@ -2,7 +2,7 @@ import SkillsBar from "./Skillbar";
 import "./about.css";
 import { motion } from "framer-motion";
 
-function About({}) {
+function About() {
   return (
     <div className="wrapper-about">
       <div className="row">
