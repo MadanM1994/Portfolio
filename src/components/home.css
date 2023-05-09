@@ -42,3 +42,20 @@
   height: 500px;
   margin: 5px;
 }
+
+@media only screen and (max-width: 767px) {
+  .box-1 {
+    padding: 50px 10px;
+  }
+  .profile-pic {
+    width: 100%;
+    height: auto;
+  }
+  .home-content {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .box-text {
+    padding: 0 10px;
+  }
+}

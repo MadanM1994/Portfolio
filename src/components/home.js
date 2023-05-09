@@ -4,7 +4,7 @@ import "./home.css";
 
 function Home() {
   return (
-    <div>
+    <div className="container">
       <div className="box-1">
         <div className="row align-items-center ">
           <div className="col-md-6">
@@ -23,7 +23,7 @@ function Home() {
             initial={{ y: 300 }}
             transition={{ type: "tween", duration: 3 }}
           >
-            <h2 className="h1-line">Hi, I Am Your UI Devloper</h2>
+            <h2 className="h1-line">Hi, I Am Your UI Developer</h2>
             <h4>Web Designer. Web Developer. UI/UX Expert.</h4>
           </motion.div>
         </div>
@@ -43,7 +43,9 @@ function Home() {
               HTML, CSS, Javascript, Bootstrap, Typescript, Angular, React,
               React Native, Vue, Java, J2EE, SQL, AWS, JQuery, AJAX, and other
               tools/frameworks.
-              <p></p> I have actively collaborated with teams on various ongoing
+            </p>
+            <p>
+              I have actively collaborated with teams on various ongoing
               development projects. I enjoy taking on challenging paths as a
               developer, as they provide exponential opportunities to learn and
               grow. My career growth has been driven by tackling these
