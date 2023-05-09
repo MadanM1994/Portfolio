@@ -1,16 +1,10 @@
 /* Footer background color and padding */
 .footer {
-  background-image: linear-gradient(
-    to right top,
-    #051937,
-    #122949,
-    #203b5c,
-    #2d4d6f,
-    #3b6082
-  );
+  background-color: black;
   padding: 40px 20px 20px;
   bottom: 0;
   width: 100%;
+  border-top: 1px solid rgb(237, 50, 50);
 }
 
 /* Footer text color and font size */

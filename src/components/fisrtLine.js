@@ -8,9 +8,9 @@ function FirstLine() {
         <div className="row">
           <div className="col text-center firstline">
             <motion.h1
-              animate={{ x: 0 }}
-              initial={{ x: -100 }}
-              transition={{ duration: 2 }}
+              animate={{ scale: 1 }}
+              initial={{ scale: 0 }}
+              transition={{ duration: 3 }}
             >
               Madan Mohan - Portfolio Website
             </motion.h1>

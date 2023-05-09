@@ -3,7 +3,7 @@ import "./project1.css";
 function Project1() {
   return (
     <div>
-      <div className="container">
+      <div className="container-project">
         <div className="project-details">
           <h2>REI SYSTEMS</h2>
           <p>
@@ -13,8 +13,11 @@ function Project1() {
             <strong>Role:</strong> Sr. Front End Developer
           </p>
           <p>
-            <strong>Project- PROVIDING UI DESIGN AND UX RESEARCH EXPERTISE ON SBA (SMALL BUSINESS ADMINISTRATION) </strong>
-            TEAM
+            Project-
+            <strong>
+              PROVIDING UI DESIGN AND UX RESEARCH EXPERTISE ON SBA (SMALL
+              BUSINESS ADMINISTRATION)
+            </strong>
           </p>
           <p>
             <strong>Job Duties:</strong>
@@ -124,7 +127,7 @@ function Project1() {
               and other testing frameworks.{" "}
             </li>
           </ul>
-          <p >
+          <p>
             <strong>Technologies:</strong> React, Redux, JavaScript, HTML, CSS,
             Jest, Enzyme, Fetch/Axios, Material UI, D3.js, Moment.js,
             Git/GitLab, Node.js, Express.js

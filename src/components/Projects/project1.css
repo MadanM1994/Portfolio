@@ -1,31 +1,18 @@
 body {
   font-family: "Arial", sans-serif;
-  background-image: linear-gradient(
-    to left top,
-    #326888,
-    #2f6d8b,
-    #2c738d,
-    #2b788e,
-    #2c7d8f,
-    #2c7d8f,
-    #2c7d8f,
-    #2c7d8f,
-    #2b788e,
-    #2c738d,
-    #2f6d8b,
-    #326888
-  );
-  color: #333;
+  background-color: black;
 }
 
-.container {
-  max-width: 960px;
+.container-project {
+  max-width: 1460px;
   margin: 0 auto;
-  margin-top: 2%;
+  margin-bottom: 2%;
   padding: 2rem;
-  background-color: #fff;
-  box-shadow: 1px 1px 2px 1px rgba(250, 183, 100, 0.847);
-  border-radius: 4px;
+  background-color: black;
+  border-radius: 5px 5px 5px 5px;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  -moz-border-radius: 5px 5px 5px 5px;
+  border: 5px double #fafafa;
 }
 
 .project-details {
@@ -33,23 +20,25 @@ body {
 }
 
 .project-details h2 {
-  color: #2c3e50;
-  border-bottom: 1px solid #bdc3c7;
+  color: white;
+  border-bottom: 1px solid #e96138;
   padding-bottom: 0.5rem;
   margin-bottom: 1rem;
 }
 
 .project-details p {
   margin-bottom: 1rem;
+  color: white;
 }
 
 .project-details strong {
-  color: #34495e;
+  color: #d24340;
 }
 
 .project-details ul {
   list-style-type: none;
   padding: 0;
+  color: white;
 }
 
 .project-details li {
@@ -59,7 +48,7 @@ body {
 
 .final-element {
   padding-bottom: 2%;
-  border-bottom: 2px solid #141515;
+  border-bottom: 2px solid #fcffff;
 }
 
 .project-details li::before {

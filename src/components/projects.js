@@ -8,9 +8,9 @@ import { motion } from "framer-motion";
 function Projects({ firstLine }) {
   return (
     <motion.div
-      animate={{ x: 500 }}
-      initial={{ x: 250 }}
-      transition={{ duration: 2 }}
+      animate={{ y: 0 }}
+      initial={{ y: -150 }}
+      transition={{ type: "tween", duration: 1 }}
     >
       <div>
         <Project1 />

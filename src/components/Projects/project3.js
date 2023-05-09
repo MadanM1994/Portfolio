@@ -3,7 +3,7 @@ import "./project3.css";
 function Project3() {
   return (
     <div>
-      <div className="container">
+      <div className="container-project">
         <div className="project-details">
           <h2>COLAN INFOTECH PRIVATE LIMITED</h2>
           <p>
@@ -13,7 +13,10 @@ function Project3() {
             <strong>Role:</strong> Frontend Developer
           </p>
           <p>
-            Project- SOCIAL MEDIA PLATFORM FOR AN INDIAN TRAVEL BLOG COMPANY
+            Project-
+            <strong>
+              SOCIAL MEDIA PLATFORM FOR AN INDIAN TRAVEL BLOG COMPANY
+            </strong>
           </p>
           <p>
             <strong>Job-Duties:</strong>
@@ -68,7 +71,7 @@ function Project3() {
             WebSocket, Socket.IO, Redux, Firebase
           </p>
           <p>
-            <strong>Project-NEWS WEBSITE FOR TOUR MY INDIA COMPANY</strong>
+            Project-<strong>NEWS WEBSITE FOR TOUR MY INDIA COMPANY</strong>
           </p>
           <p>
             <strong>Job-Duties:</strong>
@@ -122,7 +125,7 @@ function Project3() {
             Redux-Saga.
           </p>
           <p>
-            <strong>Project-JOB BOARD FOR CASA RETAIL.AI COMPANY</strong>
+            Project-<strong>JOB BOARD FOR CASA RETAIL.AI COMPANY</strong>
           </p>
           <p>
             <strong>Job-Duties:</strong>

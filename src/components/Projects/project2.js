@@ -3,7 +3,7 @@ import "./project2.css";
 function Project2() {
   return (
     <div>
-      <div className="container">
+      <div className="container-project">
         <div className="project-details">
           <h2>THE HOME DEPOT</h2>
           <p>
@@ -12,7 +12,10 @@ function Project2() {
           <p>
             <strong>Role:</strong> Frontend Developer
           </p>
-          <p>Project- HOME DEPOT PRICE ENGINE WEBSITE</p>
+          <p>
+            Project-
+            <strong>HOME DEPOT PRICE ENGINE WEBSITE</strong>
+          </p>
           <p>
             <strong>Job-Duties:</strong>
           </p>
@@ -141,9 +144,9 @@ function Project2() {
             Postman Interceptor, Swagger UI, APIs, JIRA, Git.
           </p>
           <p>
+            Project-
             <strong>
-              Project-REVAMP MANAGEMENT SYSTEM INTERFACE FOR PRODUCT MANAGEMENT
-              TEAM
+              REVAMP MANAGEMENT SYSTEM INTERFACE FOR PRODUCT MANAGEMENT TEAM
             </strong>
           </p>
           <p>
