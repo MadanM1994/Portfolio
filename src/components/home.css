@@ -1,0 +1,36 @@
+* .h1-line {
+  border-bottom: 4px solid #eaf16b;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.cont-1 {
+  margin-bottom: 4%;
+}
+* .home-content {
+  color: white;
+}
+
+.box-text {
+  color: white;
+}
+
+.box-1 {
+  margin: 30px;
+}
+
+.container {
+  margin: 50px !important;
+  padding: 50px !important;
+}
+
+.box-text p {
+  color: #0c0c0c; /* Set the text color to white */
+  margin: 50px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
