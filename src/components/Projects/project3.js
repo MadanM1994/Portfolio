@@ -19,17 +19,17 @@ function Project3() {
             </strong>
           </p>
           <p>
-            <strong>Job-Duties:</strong>
+            <strong>Job Duties:</strong>
           </p>
           <ul>
             <li>
               Developed UI components for the social media platform, utilizing
-              React to ensure a seamless user experience.
+              Angular to ensure a seamless user experience.
             </li>
             <li>
               Conducted extensive testing of the platform's functionality and
-              user-friendliness, using testing frameworks such as Jest and
-              Enzyme.
+              user-friendliness, using testing frameworks such as Jasmine and
+              Karma.
             </li>
             <li>
               Worked with the development team to optimize performance and
@@ -44,7 +44,7 @@ function Project3() {
               increase user adoption.
             </li>
             <li>
-              Managed state in the social media platform, using React Hooks to
+              Managed state in the social media platform, using Angular Hooks to
               create efficient and scalable code.
             </li>
             <li>
@@ -53,11 +53,11 @@ function Project3() {
             </li>
             <li>
               Developed real-time chat functionality using WebSocket’s and
-              Socket.IO to enhance the user experience..
+              Socket.IO to enhance the user experience.
             </li>
             <li>
-              Configured and utilized Redux to manage the platform's global
-              state, providing better scalability and code organization.s.
+              Configured and utilized NgRx to manage the platform's global state,
+              providing better scalability and code organization.
             </li>
             <li>
               Utilized Firebase for real-time database management, user
@@ -66,19 +66,19 @@ function Project3() {
             </li>
           </ul>
           <p className="final-element">
-            <strong>Technologies:</strong> React, AWS, Jest, Enzyme,
-            scalability, marketing, React Hooks, A/B testing, Google Analytics,
-            WebSocket, Socket.IO, Redux, Firebase
+            <strong>Technologies:</strong> Angular, AWS, Jasmine, Karma,
+            scalability, marketing, Angular Hooks, A/B testing, Google
+            Analytics, WebSocket, Socket.IO, NgRx, Firebase
           </p>
           <p>
             Project-<strong>NEWS WEBSITE FOR TOUR MY INDIA COMPANY</strong>
           </p>
           <p>
-            <strong>Job-Duties:</strong>
+            <strong>Job Duties:</strong>
           </p>
           <ul>
             <li>
-              Integrated third-party APIs using React to enhance the website's
+              Integrated third-party APIs using Angular to enhance the website's
               functionality and provide additional features.
             </li>
             <li>
@@ -86,7 +86,7 @@ function Project3() {
               improve the website's design and functionality.
             </li>
             <li>
-              Developed a customized content management system using React to
+              Developed a customized content management system using Angular to
               meet the editorial team's specific needs.
             </li>
             <li>
@@ -99,7 +99,7 @@ function Project3() {
             </li>
             <li>
               Implemented dynamic routing and enhanced the website's navigation
-              using React Router.
+              using Angular Router.
             </li>
             <li>
               Ensured the website was accessible on all devices by implementing
@@ -115,33 +115,35 @@ function Project3() {
             </li>
             <li>
               Managed the website's asynchronous data flow and enhanced
-              scalability using Redux-Saga.
+              scalability using NgRx-Effects.
             </li>
           </ul>
           <p className="final-element">
-            <strong>Technologies:</strong>React, Third-Party APIs, Usability
+            <strong>Technologies:</strong> Angular, Third-Party APIs, Usability
             Testing, Content Management System, Security Compliance, Training,
-            React Router, Responsive Design, GraphQL, Server-Side Rendering,
-            Redux-Saga.
+            Angular Router, Responsive Design, GraphQL, Server-Side Rendering,
+            NgRx-Effects.
           </p>
           <p>
             Project-<strong>JOB BOARD FOR CASA RETAIL.AI COMPANY</strong>
           </p>
           <p>
-            <strong>Job-Duties:</strong>
+            <strong>Job Duties:</strong>
           </p>
           <ul>
             <li>
-              Implemented advanced search functionality using React to improve
+              Implemented advanced search functionality using Angular to improve
               the user experience for job seekers.
             </li>
             <li>
-              Developed an application tracking system using React to streamline
-              the recruitment process for the HR team.y.
+              Developed an application tracking system using Angular to streamline
+              the recruitment process for the HR team.
             </li>
             <li>
               Conducted load testing to ensure the job board could handle high
-              traffic volume.
+              traffic volume
+
+.
             </li>
             <li>
               Worked with the development team to integrate the job board with
@@ -152,7 +154,7 @@ function Project3() {
               ensuring its continued functionality and effectiveness.
             </li>
             <li>
-              Created a mobile version of the job board using React Native,
+              Created a mobile version of the job board using Angular Native,
               increasing user accessibility and engagement.
             </li>
             <li>
@@ -160,7 +162,7 @@ function Project3() {
               and improve user experience.
             </li>
             <li>
-              Implemented responsive design using React-Bootstrap to create a
+              Implemented responsive design using Angular-Bootstrap to create a
               modern and accessible design for the job board.
             </li>
             <li>
@@ -168,15 +170,15 @@ function Project3() {
               and Apollo.
             </li>
             <li>
-              Improved the job board's navigation using React-Router-Dom to
+              Improved the job board's navigation using Angular-Router to
               implement dynamic routing.
             </li>
           </ul>
           <p>
-            <strong>Technologies:</strong>React, Third-Party APIs, Usability
+            <strong>Technologies:</strong> Angular, Third-Party APIs, Usability
             Testing, Content Management System, Security Compliance, Training,
-            React Router, Responsive Design, GraphQL, Server-Side Rendering,
-            Redux-Saga.
+            Angular-Router, Responsive Design, GraphQL, Server-Side Rendering,
+            NgRx-Effects.
           </p>
         </div>
       </div>
